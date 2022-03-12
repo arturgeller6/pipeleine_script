@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Building the Project : `date`"
+echo "Building the Project : date"
